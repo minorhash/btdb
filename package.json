@@ -1,0 +1,41 @@
+{
+  "_from": "btdb",
+  "_id": "btdb@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lVIESEaG0L/6G+nJPawxnQ1coE1BWU+09tCFznU/2mCSmqWW6wqUkO5uyygkowAFH5GyKDddMhTZHW6r+ayEoA==",
+  "_location": "/btdb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "btdb",
+    "name": "btdb",
+    "escapedName": "btdb",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/btdb/-/btdb-1.2.0.tgz",
+  "_shasum": "c3610774bb08a9edb98fbffa4b468ba1a9890e85",
+  "_spec": "btdb",
+  "_where": "/home/koji/github",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "better-sqlite3": "latest"
+  },
+  "deprecated": false,
+  "description": "better-sqlite3 wrapper.",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "btdb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
